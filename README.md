@@ -4,7 +4,7 @@
 
 **Objective:** Develop and evaluate models to predict flight delays of >15 minutes after scheduled departure time, using only information available at least 2 hours before the scheduled departure. 
 
-**Data sources:** Our main data sources are information on >31 million flights departing from U.S. airports from 2015–2019, and ~630 million observations from U.S. weather stations over the same time period.
+**Data sources:** Our main data sources are information on ~31 million flights departing from U.S. airports from 2015–2019, and ~630 million observations from U.S. weather stations over the same time period.
 
 **Evaluation Metrics**
 We will use primarily 6 metrics to evaluate the performance of our models: accuracy, precision, recall, F1 score, time required to train the model, and time required for the model to make a prediction on unseen data. The reasoning for using each of these metrics is as followed:
